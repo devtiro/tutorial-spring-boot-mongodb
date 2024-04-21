@@ -3,7 +3,8 @@
 
 Check out the tutorial on YouTube:
 (Live 9AM BST on 22 April 2024)
-[![Devtiro's Practical Lombok Course](https://img.youtube.com/vi/nmOYRdOvagU/0.jpg)](https://www.youtube.com/watch?v=nmOYRdOvagU)
+
+[![How to Connect Spring Boot to MongoDB](https://img.youtube.com/vi/nmOYRdOvagU/0.jpg)](https://www.youtube.com/watch?v=nmOYRdOvagU)
 
 
 ## Postman Collection
